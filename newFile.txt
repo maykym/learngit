@@ -1,3 +1,4 @@
+this is newFile file content
 this is hahahhahhah 
 this is nothing about file
 this is newFile2
